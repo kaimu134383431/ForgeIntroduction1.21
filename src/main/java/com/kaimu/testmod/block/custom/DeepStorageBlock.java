@@ -136,9 +136,6 @@ public class DeepStorageBlock extends BaseEntityBlock {
                 return ItemInteractionResult.SUCCESS;
             }
 
-            if(pLevel.isClientSide()) {
-                return ItemInteractionResult.SUCCESS;
-            }
 
         }
 

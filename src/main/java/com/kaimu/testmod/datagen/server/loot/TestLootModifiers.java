@@ -15,7 +15,7 @@ public class TestLootModifiers {
             DeferredRegister.create(ForgeRegistries.Keys.GLOBAL_LOOT_MODIFIER_SERIALIZERS, TestMod.MOD_ID);
 
     public static final RegistryObject<MapCodec<? extends IGlobalLootModifier>> ADD_ITEM =
-            LOOT_MODIFIER_SERIALIZERS.register("add_item", AddItemModifier.CODEC::get);
+            LOOT_MODIFIER_SERIALIZERS.register("add_item", AddItemModifier.CODEC);
 
     public static void register(IEventBus eventBus) {
         LOOT_MODIFIER_SERIALIZERS.register(eventBus);

@@ -114,7 +114,7 @@ public class TestBlockStateProvider extends BlockStateProvider {
     }
 
     private void deepStorageGen(RegistryObject<Block> block, String side, String bottom, String top) {
-        ModelFile model = models().cubeBottomTop(
+        BlockModelBuilder model = models().cubeBottomTop(
                 ForgeRegistries.BLOCKS.getKey(block.get()).getPath(),
                 mcLoc(side),
                 mcLoc(bottom),
@@ -123,7 +123,7 @@ public class TestBlockStateProvider extends BlockStateProvider {
 
         simpleBlockWithItem(block.get(), model);
 
-        ((BlockModelBuilder) model).renderType("translucent"); // ここでrender_type追加
+        model.renderType("translucent"); // ここでrender_type追加
 
     }
 
