@@ -1,0 +1,9 @@
+{
+  "values": [
+    "testmod:salt_block",
+    "testmod:orihalcon_block",
+    "testmod:raw_orihalcon_block",
+    "testmod:orihalcon_ore",
+    "testmod:deepslate_orihalcon_ore"
+  ]
+}

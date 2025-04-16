@@ -1,0 +1,30 @@
+{
+  "anvil_cost": 1,
+  "description": {
+    "translate": "enchantment.testmod.wall_climber"
+  },
+  "effects": {
+    "minecraft:tick": [
+      {
+        "effect": {
+          "type": "testmod:wall_climber"
+        }
+      }
+    ]
+  },
+  "max_cost": {
+    "base": 40,
+    "per_level_above_first": 20
+  },
+  "max_level": 2,
+  "min_cost": {
+    "base": 10,
+    "per_level_above_first": 10
+  },
+  "primary_items": "#minecraft:chest_armor",
+  "slots": [
+    "chest"
+  ],
+  "supported_items": "#minecraft:chest_armor",
+  "weight": 3
+}

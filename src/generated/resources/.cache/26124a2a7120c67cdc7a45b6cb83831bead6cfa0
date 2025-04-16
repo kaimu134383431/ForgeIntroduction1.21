@@ -1,0 +1,4 @@
+// 1.21.1	2025-04-03T04:00:09.527541	Global Loot Modifiers : testmod
+05520c0a6de346d75f2c693d938b8311468f0c53 data/forge/loot_modifiers/global_loot_modifiers.json
+271844bbb5218ba9034b6aeb7e7783cbaf6fff89 data/testmod/loot_modifiers/orihalcon_ingot_from_ruined_portal.json
+7789c2ced513982fc80b479c26e599366628eeb3 data/testmod/loot_modifiers/orihalcon_ingot_from_zombie.json

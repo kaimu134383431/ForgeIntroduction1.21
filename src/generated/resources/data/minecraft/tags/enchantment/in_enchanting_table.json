@@ -1,0 +1,20 @@
+{
+  "values": [
+    {
+      "id": "testmod:lightning_striker",
+      "required": false
+    },
+    {
+      "id": "testmod:wall_climber",
+      "required": false
+    },
+    {
+      "id": "testmod:area_miner",
+      "required": false
+    },
+    {
+      "id": "testmod:dew_sweeper",
+      "required": false
+    }
+  ]
+}

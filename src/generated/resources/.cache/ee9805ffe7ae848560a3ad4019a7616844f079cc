@@ -1,0 +1,6 @@
+// 1.21.1	2025-04-04T05:26:07.9742949	Tags for minecraft:item mod id testmod
+10a1faf4279db7a3c4e648f3075ef58f9e02c874 data/minecraft/tags/item/leaves.json
+796a97e5d19d29e302cc8fd9983c97eb30021977 data/minecraft/tags/item/logs.json
+472a44e5a1850cb8a8fbf968e1e5e45ee51d3a4b data/minecraft/tags/item/logs_that_burn.json
+6327c48ad3bd55fc7d81ad801eb535f879cd3552 data/minecraft/tags/item/planks.json
+472a44e5a1850cb8a8fbf968e1e5e45ee51d3a4b data/testmod/tags/item/cursed_log.json

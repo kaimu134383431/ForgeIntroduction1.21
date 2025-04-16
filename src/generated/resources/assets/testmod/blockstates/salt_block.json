@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "testmod:block/salt_block"
+    }
+  }
+}

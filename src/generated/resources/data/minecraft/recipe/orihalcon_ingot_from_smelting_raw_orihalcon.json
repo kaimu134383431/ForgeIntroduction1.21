@@ -1,0 +1,13 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "cookingtime": 200,
+  "experience": 1.0,
+  "group": "orihalcon",
+  "ingredient": {
+    "item": "testmod:raw_orihalcon"
+  },
+  "result": {
+    "id": "testmod:orihalcon_ingot"
+  }
+}

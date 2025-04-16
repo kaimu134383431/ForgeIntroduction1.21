@@ -1,0 +1,9 @@
+// 1.21.1	2025-04-08T01:07:54.3220766	Registries
+75b376c3a0a161f850af39797a3c4d8e7c140b7c data/testmod/enchantment/area_miner.json
+afc98197dd43b30c7d08e35dd173913229b6c1b2 data/testmod/enchantment/dew_sweeper.json
+0cfc420b707c58276d834bb995f8ccc0162f4ef8 data/testmod/enchantment/lightning_striker.json
+caab48e8176a27a4633ac9c261c08bb3ae3b31aa data/testmod/enchantment/wall_climber.json
+e2a9da6da7130ec9814b1dc36e270061789bc9b8 data/testmod/forge/biome_modifier/add_orihalcon_ore.json
+d40df53356609cc268a445a4fd96942c02ebcbe7 data/testmod/worldgen/configured_feature/cursed_tree.json
+47b6f247daa40ad00ffade76ee13f07f79816dd8 data/testmod/worldgen/configured_feature/orihalcon_ore.json
+e4b8c59ff85de80477fd463c619ea9ecf37d68a8 data/testmod/worldgen/placed_feature/ore_orihalcon.json

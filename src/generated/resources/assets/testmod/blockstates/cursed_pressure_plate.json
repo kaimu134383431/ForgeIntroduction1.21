@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "powered=false": {
+      "model": "testmod:block/cursed_pressure_plate"
+    },
+    "powered=true": {
+      "model": "testmod:block/cursed_pressure_plate_down"
+    }
+  }
+}

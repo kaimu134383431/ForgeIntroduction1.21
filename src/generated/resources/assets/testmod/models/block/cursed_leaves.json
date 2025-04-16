@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/cube_top",
+  "textures": {
+    "side": "testmod:block/cursed_leaves_side",
+    "top": "testmod:block/cursed_leaves_top"
+  }
+}

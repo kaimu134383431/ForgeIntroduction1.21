@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "testmod:block/orihalcon_block"
+    }
+  }
+}
