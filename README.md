@@ -5,7 +5,7 @@
 MineFactoryReloadedのDeep Storage Unitのような仕様を目指し、保存処理・GUI・同期・描画まで実装しています。
 
 ## 使用技術
-- Java 17
+- Java 21
 - Minecraft Forge 1.21.1
 - ForgeGradle
 - NBT / ItemStackHandler / BlockEntity / ContainerMenu
